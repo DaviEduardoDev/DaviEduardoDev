@@ -1,16 +1,43 @@
-### Hi there 👋
+# Bem-vindos!
 
-<!--
-**DaviEduardoDomingos/DaviEduardoDomingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## Olá! Me Chamo Davi Eduardo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: Sou estudante do curso de ADS(:heart:) e futuro desenvolvedor Full Stack!
+
+:house_with_garden: MG/Brasil.
+
+:books: Atualmente, estou aprendendo HTML, CSS e JavaScript. Quero adquirir conhecimentos avançados nessa aréa para assim poder abrir meus horrizontes de aprendizado.
+
+
+ 
+
+## Contatos:
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://davidomingoseduardo@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davieduardodomingos
+)
+
+
+<div>
+ <br><br>
+  <a href="https://github.com/DaviEduardoDomingos">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DaviEduardoDomingos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEduardoDomingos&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+<br>
+<p align="left">
+
+
+- Grato Pela Visita.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
+
+Davi Eduardo Domingos
