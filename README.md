@@ -10,7 +10,7 @@
 
 :house_with_garden: MG/Brasil.
 
-:books: Atualmente, estou aprendendo HTML, CSS e JavaScript. Quero adquirir conhecimentos avançados nessa aréa para assim poder abrir meus horrizontes de aprendizado.
+:books: Atualmente, estou aprendendo HTML, CSS e JavaScript. Quero adquirir conhecimentos avançados nessa área para assim poder abrir meus horrizontes de aprendizado.
 
 
  
