@@ -6,7 +6,7 @@
 
  
 
-:computer: Sou estudante do curso de ADS(:heart:) e futuro desenvolvedor Full Stack!
+:computer: Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela UnicSul.
 
 :house_with_garden: MG/Brasil.
 
