@@ -6,7 +6,7 @@
 
  
 
-:computer: Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela UnicSul.
+:computer: Estudante do curso de Análise e Desenvolvimento de Sistemas pela UnicSul.
 
 :house_with_garden: MG/Brasil.
 
