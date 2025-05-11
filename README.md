@@ -31,12 +31,9 @@ Sou um entusiasta de programação com foco em desenvolvimento web e análise de
 
 <div align="center">
   <a href="https://github.com/DaviEduardoDev">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=DaviEduardoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-      alt="GitHub Stats" style="max-width: 100%; height: auto; margin: 10px;"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEduardoDev&layout=compact&langs_count=7&theme=dracula" 
+    <img src="https://github-readme-stats.vercel.app/api?username=DaviEduardoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+      alt="GitHub Stats" style="max-width: 100%; height: auto; margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEduardoDev&layout=compact&langs_count=7&theme=dracula" 
       alt="Top Languages" style="max-width: 100%; height: auto; margin: 10px;"
     />
   </a>
