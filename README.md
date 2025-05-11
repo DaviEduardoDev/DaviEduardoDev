@@ -1,11 +1,11 @@
 Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Davi Eduardo
 ====================================================================================================================================
 
-:computer: Sou estudante do curso superior de Análise e Desenvolvimento de Sistemas pela UnicSul.
+:computer: Sou estudante do curso superior de Psicologia pela Universidade Única.
 
 :house_with_garden: MG/Brasil.
 
-:books: Atualmente, estou estudando programação web, com foco em front-end, que inclui HTML, CSS e JavaScript. Também tenho aprendido muito sobre a linguagem de programação Python, assim como suas bibliotecas, além dos frameworks Flask e Django.
+:books: Sou entusiasta da programação, área que cultivo como hobby por seu potencial criativo e lógico. No campo acadêmico, dedico meus estudos à Psicologia Baseada em Evidências, buscando sempre integrar pensamento crítico, ciência e tecnologia no desenvolvimento pessoal e profissional.
 
 ### Habilidades:
 
