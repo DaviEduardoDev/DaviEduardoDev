@@ -84,7 +84,7 @@ Tenho investido continuamente na minha qualificação técnica. Aqui estão algu
 
 | Instituição | Curso / Formação | Foco |
 | :--- | :--- | :--- |
-| **IBM / Mastertech** | Formação "Math!" | Python, Dev Web, POO |
+| **IBM / Mastertech** | Formação "Math!" | Python, Dev Web |
 | **IBM** | Agile Explorer | Metodologias Ágeis |
 | **Alura** | Formação Front-End | HTML5, CSS3, Flexbox, Acessibilidade |
 | **Alura** | Lógica de Programação | JavaScript e Jogos |
