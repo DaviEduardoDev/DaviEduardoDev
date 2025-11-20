@@ -45,7 +45,6 @@ Minhas habilidades combinam o desenvolvimento de software com a vivência práti
 </div>
 
 ### 📡 Infraestrutura & Suporte
-![Zabbix](https://img.shields.io/badge/Zabbix-CA0606?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VoIP](https://img.shields.io/badge/VoIP-SIP-blue?style=flat-square)
