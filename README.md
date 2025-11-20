@@ -22,7 +22,7 @@ Olá! Eu sou o Davi Eduardo 👋
 
 Sou um entusiasta da tecnologia que acredita que o código é uma ferramenta para resolver problemas humanos. Minha trajetória é marcada pela interseção entre Ciências Exatas e Humanas:
 
-🔭 Atualmente: Atuo como Analista de Suporte, lidando com diagnóstico, VoIP, Redes e infraestrutura, enquanto curso Análise e Desenvolvimento de Sistemas.
+🔭 Atualmente: Atuo como Analista de Suporte (N1/N2), lidando com diagnóstico avançado, VoIP, Redes e infraestrutura, enquanto curso Análise e Desenvolvimento de Sistemas.
 
 🧠 Diferencial: Minha formação prévia em Psicologia me proporciona uma visão única sobre Experiência do Usuário (UX), Soft Skills e Resolução de Conflitos, aplicando a metodologia científica e o pensamento crítico no troubleshooting diário.
 
@@ -39,11 +39,11 @@ Minhas habilidades combinam o desenvolvimento de software com a vivência práti
 
 
 
-<img align="center" alt="Davi-HTML" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Davi-CSS" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Davi-Js" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Davi-Python" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Davi-Git" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="Davi-HTML" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="Davi-CSS" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Davi-Js" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Davi-Python" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Davi-Git" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 📡 Infraestrutura & Suporte
