@@ -43,7 +43,7 @@ Minhas habilidades combinam o desenvolvimento de software com a vivência práti
 
 ### 📡 Competências
 *   **Infraestrutura:** VoIP (SIP), Redes, Linux
-*   **Monitoramento:** Grafana, Zabbix
+*   **Monitoramento:** Grafana
 *   **Soft Skills:** Resolução de Conflitos, Comunicação Assertiva, Troubleshooting
 
 ---
@@ -62,7 +62,7 @@ Atuação focada na plataforma omnichannel **Escallo** e telefonia IP.
 ### **Supranet Telecomunicações** | *Analista de Suporte N2 & N1*
 *(Mai/2023 - Ago/2025)*
 *   🕵️ **Diagnóstico Avançado:** Troubleshooting em redes, VoIP e SVAs.
-*   📊 **NOC & Monitoramento:** Análise de saúde da rede com **Zabbix** e **Grafana**.
+*   📊 **NOC & Monitoramento:** Análise de saúde da rede com **Grafana**.
 *   🤝 **Liderança Técnica:** Mentoria para analistas N1 e criação de base de conhecimento.
 
 ### **Superaço Alimentos** | *Assistente Administrativo/Marketing*
@@ -81,6 +81,7 @@ Atuação focada na plataforma omnichannel **Escallo** e telefonia IP.
 | **Alura** | Formação Front-End | HTML5, CSS3, Key Skills |
 | **Alura** | Lógica de Programação | JavaScript e Algoritmos |
 | **Supranet/Multi** | Workshop Wi-Fi 6/7 & FTTR | Redes e Infraestrutura |
+| **Cisco** | Linux Unhatched | Linux Básico |
 
 ---
 
@@ -88,7 +89,7 @@ Atuação focada na plataforma omnichannel **Escallo** e telefonia IP.
 
 <div align="center">
   <a href="https://github.com/DaviEduardoDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviEduardoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviEduardoDev&show_icons=true&theme=dracula" alt="Stats" />
     <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEduardoDev&layout=compact&langs_count=7&theme=dracula" alt="Languages" />
   </a>
