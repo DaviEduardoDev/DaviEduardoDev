@@ -89,9 +89,7 @@ Atuação focada na plataforma omnichannel **Escallo** e telefonia IP.
 
 <div align="center">
   <a href="https://github.com/DaviEduardoDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviEduardoDev&show_icons=true&theme=dracula" alt="Stats" />
-    <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEduardoDev&layout=compact&langs_count=7&theme=dracula" alt="Languages" />
+    <img align="center" src="github-metrics.svg" alt="Metrics" />
   </a>
 </div>
 
