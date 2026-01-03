@@ -1,41 +1,101 @@
-# Bem-vindos!
+<div align="center">
 
- 
+# Olá! Eu sou o Davi Eduardo 👋
 
-## Olá! Me Chamo Davi Eduardo!
+### 🎓 Análise e Desenvolvimento de Sistemas | Background em Psicologia
+### 🛠️ Analista de Suporte Técnico & Desenvolvedor em Formação
 
- 
-
-:computer: Estudante do curso de Análise e Desenvolvimento de Sistemas pela UnicSul.
-
-:house_with_garden: MG/Brasil.
-
-:books: Atualmente, estou aprendendo HTML, CSS e JavaScript. Quero adquirir conhecimentos avançados nessa área para assim poder abrir meus horrizontes de aprendizado.
-
-
- 
-
-## Contatos:
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://davidomingoseduardo@gmail.com)
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davieduardodomingos
-)
-
-
-<div>
- <br><br>
-  <a href="https://github.com/DaviEduardoDev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DaviEduardoDev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEduardoDev&layout=compact&langs_count=7&theme=highcontrast"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/davieduardodomingos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:davidomingoseduardo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/davie.dd/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
 </div>
-<br>
-<p align="left">
 
+</div>
 
-- Grato Pela Visita.
+---
 
-----------------------------------------------------------------------------------
+## 🚀 Sobre Mim
 
-Davi Eduardo Domingos
+Sou um entusiasta da tecnologia que acredita que o código é uma ferramenta para resolver problemas humanos. Minha trajetória é marcada pela interseção entre **Ciências Exatas** e **Humanas**:
+
+*   🔭 **Atualmente:** Atuo como **Analista de Suporte**, lidando com diagnóstico avançado, VoIP, Redes e infraestrutura, enquanto curso **Análise e Desenvolvimento de Sistemas**.
+*   🧠 **Diferencial:** Minha formação prévia em **Psicologia** me proporciona uma visão única sobre *Experiência do Usuário (UX)*, *Soft Skills* e *Resolução de Conflitos*, aplicando a metodologia científica e o pensamento crítico no troubleshooting diário.
+*   🌱 **Estudando:** Aprofundando conhecimentos em Desenvolvimento Web (HTML/CSS/JS), Python e Gestão de Redes.
+
+---
+
+## 🛠️ Arsenal Técnico
+
+Minhas habilidades combinam o desenvolvimento de software com a vivência prática de infraestrutura e suporte.
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,linux,grafana,github" />
+</div>
+
+### 📡 Competências
+*   **Infraestrutura:** VoIP (SIP), Redes, Linux
+*   **Monitoramento:** Grafana, Zabbix
+*   **Soft Skills:** Resolução de Conflitos, Comunicação Assertiva, Troubleshooting
+
+---
+
+## 💼 Experiência Profissional
+
+Minha carreira evoluiu do atendimento ao cliente para o suporte técnico especializado, sempre com foco na resolução eficiente de problemas.
+
+### **Futurotec** | *Analista de Suporte N1 (Requisição & Help Desk)*
+*(Ago/2025 - Atualmente)*
+Atuação focada na plataforma omnichannel **Escallo** e telefonia IP.
+*   🔧 **Automação & Fluxos:** Configuração e ajuste de fluxos de atendimento em Chatbots e URAs.
+*   📞 **Telefonia IP:** Administração e troubleshooting de ramais SIP.
+*   🆘 **Gestão de Incidentes:** Resolução ágil de tickets via Desk Manager.
+
+### **Supranet Telecomunicações** | *Analista de Suporte N2 & N1*
+*(Mai/2023 - Ago/2025)*
+*   🕵️ **Diagnóstico Avançado:** Troubleshooting em redes, VoIP e SVAs.
+*   📊 **NOC & Monitoramento:** Análise de saúde da rede com **Zabbix** e **Grafana**.
+*   🤝 **Liderança Técnica:** Mentoria para analistas N1 e criação de base de conhecimento.
+
+### **Superaço Alimentos** | *Assistente Administrativo/Marketing*
+*(Ago/2022 - Abr/2023)*
+*   📈 **Análise de Dados:** Estratégias de CRM.
+*   📢 **Marketing:** Gestão de tráfego e design básico.
+
+---
+
+## 📜 Certificações e Formação
+
+| Instituição | Curso / Formação | Foco |
+| :--- | :--- | :--- |
+| **IBM / Mastertech** | Formação "Math!" | Python, Dev Web |
+| **IBM** | Agile Explorer | Metodologias Ágeis |
+| **Alura** | Formação Front-End | HTML5, CSS3, Key Skills |
+| **Alura** | Lógica de Programação | JavaScript e Algoritmos |
+| **Supranet/Multi** | Workshop Wi-Fi 6/7 & FTTR | Redes e Infraestrutura |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/DaviEduardoDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviEduardoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Stats" />
+    <br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEduardoDev&layout=compact&langs_count=7&theme=dracula" alt="Languages" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"Integro pensamento crítico, metodologia científica e tecnologia para buscar soluções inovadoras."</i></sub>
+</div>
